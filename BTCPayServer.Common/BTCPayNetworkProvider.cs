@@ -53,6 +53,7 @@ namespace BTCPayServer
             InitFeathercoin();
             InitAlthash();
             InitGroestlcoin();
+            InitPIVX();
             InitViacoin();
             InitMonero();
             InitZcash();
